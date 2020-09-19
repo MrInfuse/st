@@ -21,8 +21,8 @@
   [15] = "#FFFFFF", /* white   */
 
   /* special colors */
-  [256] = "#F9F9F9", /* background */
-  [257] = "#383A42", /* foreground */
+  [256] = "#CCCCCC", /* background */
+  [257] = "#0066FF", /* foreground */
   [258] = "#383A42"
 };
 
