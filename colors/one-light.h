@@ -22,7 +22,7 @@
 
   /* special colors */
   [256] = "#CCCCCC", /* background */
-  [257] = "#0066FF", /* foreground */
+  [257] = "#000000", /* foreground */
   [258] = "#383A42"
 };
 
