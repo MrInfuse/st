@@ -98,7 +98,7 @@ float alpha = 1;
 
 /* Terminal colors (16 first used in escape sequence) */
 
-#include"colors/one-light.h"
+#include"colors/one-orange.h"
 
 /*
  * Default shape of cursor
